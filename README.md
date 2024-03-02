@@ -36,4 +36,3 @@ Contributions to improve the game or add new features are welcome! Feel free to 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-```
