@@ -1,4 +1,4 @@
-# Towers of Hanoi
+# Towers of Hanoi 🗼
 
 ## About
 This repository contains a Python implementation of the Towers of Hanoi game. The game is implemented using a stack-based approach and consists of several Python scripts:
